@@ -7,11 +7,13 @@
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-  <div class="card">
-    <h2 id="status">Download Simulator</h2>
-    <div class="progress"><div class="fill" id="fill"></div></div>
-    <div class="percent" id="percent">0%</div>
-    <button class="btn" id="startBtn">Start Download</button>
+  <div class="container">
+    <h2>Click Start to Download</h2>
+    <div class="progress-bar">
+      <div class="progress"></div>
+    </div>
+    <p id="percent">0%</p>
+    <button onclick="startDownload()">Start Download</button>
   </div>
 
 
