@@ -21,5 +21,6 @@
 - **JavaScript (Vanilla JS)** – download simulation logic  
 
   ## 📸 Glimpses
-  <img width="1366" height="557" alt="download3" src="https://github.com/user-attachments/assets/818a4836-39dd-4ef7-9c6f-cd61ee32556d" />
-  <img width="1366" height="549" alt="download4" src="https://github.com/user-attachments/assets/ee341a90-82bc-420e-a179-b11da2da4809" />
+  <img width="1366" height="561" alt="download1" src="https://github.com/user-attachments/assets/4f4113c8-f37b-4639-8156-84c6909baa5f" />
+  <img width="1327" height="538" alt="download2" src="https://github.com/user-attachments/assets/778ba18e-6bf3-470f-bf49-1b38784eb18f" />
+
